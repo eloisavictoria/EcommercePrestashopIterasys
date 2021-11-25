@@ -1,0 +1,3 @@
+﻿nomeTeste;email;password;nomeUsuario;resultado
+loginValido;eloisa@teste.com;eloisa;Eloisa Victoria;positivo
+loginInvalido;eloisa@teste.com;eloisa123;Eloisa Victoria;negativo
